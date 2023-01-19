@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/my-nth-cra/static/js/main.6d226740.js",
+    "main.css": "/my-nth-cra/static/css/main.e4ed48cc.css",
+    "main.js": "/my-nth-cra/static/js/main.56f1b803.js",
     "index.html": "/my-nth-cra/index.html",
-    "main.6d226740.js.map": "/my-nth-cra/static/js/main.6d226740.js.map"
+    "main.e4ed48cc.css.map": "/my-nth-cra/static/css/main.e4ed48cc.css.map",
+    "main.56f1b803.js.map": "/my-nth-cra/static/js/main.56f1b803.js.map"
   },
   "entrypoints": [
-    "static/js/main.6d226740.js"
+    "static/css/main.e4ed48cc.css",
+    "static/js/main.56f1b803.js"
   ]
 }
