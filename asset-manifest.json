@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/my-nth-cra/static/js/main.6d226740.js",
+    "index.html": "/my-nth-cra/index.html",
+    "main.6d226740.js.map": "/my-nth-cra/static/js/main.6d226740.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6d226740.js"
+  ]
+}
